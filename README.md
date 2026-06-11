@@ -7,6 +7,7 @@ STEP 2
 Create Telegram bot via:
 https://t.me/BotFather?utm_source=chatgpt.com
 
+STEP 3
 Set Environment Variables di Vercel:
 BOT_TOKEN=
 GAS_URL=
